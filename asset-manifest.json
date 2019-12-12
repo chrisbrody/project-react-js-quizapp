@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-react-js-quizzapp/static/css/main.ed8892c7.chunk.css",
+    "main.js": "/project-react-js-quizzapp/static/js/main.501c1485.chunk.js",
+    "main.js.map": "/project-react-js-quizzapp/static/js/main.501c1485.chunk.js.map",
+    "runtime-main.js": "/project-react-js-quizzapp/static/js/runtime-main.6cc65473.js",
+    "runtime-main.js.map": "/project-react-js-quizzapp/static/js/runtime-main.6cc65473.js.map",
+    "static/js/2.a40a013e.chunk.js": "/project-react-js-quizzapp/static/js/2.a40a013e.chunk.js",
+    "static/js/2.a40a013e.chunk.js.map": "/project-react-js-quizzapp/static/js/2.a40a013e.chunk.js.map",
+    "index.html": "/project-react-js-quizzapp/index.html",
+    "precache-manifest.542f2c7ad59ff89d7a5e1274f20d8792.js": "/project-react-js-quizzapp/precache-manifest.542f2c7ad59ff89d7a5e1274f20d8792.js",
+    "service-worker.js": "/project-react-js-quizzapp/service-worker.js",
+    "static/css/main.ed8892c7.chunk.css.map": "/project-react-js-quizzapp/static/css/main.ed8892c7.chunk.css.map",
+    "static/js/2.a40a013e.chunk.js.LICENSE": "/project-react-js-quizzapp/static/js/2.a40a013e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6cc65473.js",
+    "static/js/2.a40a013e.chunk.js",
+    "static/css/main.ed8892c7.chunk.css",
+    "static/js/main.501c1485.chunk.js"
+  ]
+}
